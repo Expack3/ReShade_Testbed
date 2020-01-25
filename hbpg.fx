@@ -2,7 +2,7 @@
 
 /*
 1-bit Hue-Based Palette Shader
-Based upon Alex Charlton's Hue-Based Palette Shader
+Based upon Alex Charlton's Hue-Based Palette Shader: alex-charlton.com/posts/Dithering_on_the_GPU
 Adapted by Expack3
 */
 
